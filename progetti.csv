@@ -1,6 +1,8 @@
 project_name,duration_of_the_testing_phase,budget,%_of_compl,time_passed,actual_cost
+
 SoftwareA,18,5555,45,8,2500
 ProjectX,19,7000,30,8,2500
+FantasyLand,12,10000,15,8,3750
 InteractiveRobot,10,18522,70,8,13000
 CinePop,8,4520,65,4,3575
 ProgettoManhattan,7,9781,27,3,2143
