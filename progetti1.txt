@@ -1,3 +1,4 @@
+project_name,duration_of_the_testing_phase,budget,%_of_compl,time_passed,actual_cost
 SoftwareA,18,5555,45,8,2500
 ProjectX,19,7000,30,8,2500
 FantasyLand,12,10000,15,8,3750
